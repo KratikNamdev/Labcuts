@@ -356,10 +356,18 @@ h6,
   }
 
 .logo{
-    height: 50px;
+    height: 70px;
 }
+.more{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.more a{
+    color: #00bcd4;
 
-
+}
 
 /* PRODUCTS */
 .product-heading{
